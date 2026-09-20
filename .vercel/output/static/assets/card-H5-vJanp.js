@@ -1,0 +1,1 @@
+import{Z as e,d as t,y as n}from"./store-7hABN1xx.js";e();var r=n();function i({className:e,...n}){return(0,r.jsx)(`div`,{className:t(`rounded-xl bg-surface p-4 text-fg shadow-card`,e),...n})}export{i as t};

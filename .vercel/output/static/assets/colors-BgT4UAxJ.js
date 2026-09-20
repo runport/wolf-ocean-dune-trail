@@ -1,0 +1,1 @@
+var e={سرمه‌ای:`#1e3a5f`,مشکی:`#1a1a1a`,بژ:`#cbb79a`,کرم:`#e6d5b8`,"آبی تیره":`#234e70`,"آبی راه‌راه":`#3d6b8a`,خردلی:`#b08a3c`,سفید:`#f4f1ea`,برنز:`#8a6a45`,طبیعی:`#c4b49a`};function t(t){if(e[t])return e[t];for(let[n,r]of Object.entries(e))if(t.includes(n))return r;return`#8a8173`}export{t};

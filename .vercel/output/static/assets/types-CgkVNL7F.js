@@ -1,0 +1,1 @@
+var e=[`fabric`,`thread`,`zipper`,`button`,`interfacing`,`trim`,`tool`],t=[`meter`,`piece`,`spool`,`kg`,`pack`,`roll`],n=[`draft`,`cutting`,`sewing`,`done`,`cancelled`];export{n,t as r,e as t};

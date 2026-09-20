@@ -1,0 +1,1 @@
+import{u as e,y as t}from"./store-7hABN1xx.js";import{r as n}from"./format-Cfsse0KL.js";var r=t();function i({qty:t,unit:i,className:a}){let o=t%1==0?0:1;return(0,r.jsxs)(`span`,{className:a,children:[(0,r.jsx)(`span`,{className:`tabular-nums`,children:n(t,o)}),` `,e[i]]})}export{i as t};
